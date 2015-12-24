@@ -1,0 +1,26 @@
+{
+  "name": "sh-slideshare",
+  "version": "1.0.0",
+  "description": "A node wrapper around SlideShare API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhdev/sh-slideshare.git"
+  },
+  "keywords": [
+    "slideshare",
+    "slideshare",
+    "API",
+    "slides",
+    "api"
+  ],
+  "author": "Suhail Abood <suhail.abood@gmail.com> (suhailabood.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhdev/sh-slideshare/issues"
+  },
+  "homepage": "https://github.com/suhdev/sh-slideshare#readme"
+}
